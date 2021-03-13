@@ -17,7 +17,7 @@ xray-plugin for OpenWrt
    # 以 ar71xx 平台为例
    tar xJf openwrt-sdk-18.06.1-ar71xx-tiny_gcc-7.3.0_musl.Linux-x86_64.tar.xz
    cd openwrt-sdk-*-ar71xx-*
-   # 获取 v2ray-plugin Makefile
+   # 获取 xray-plugin Makefile
    git clone https://github.com/tianlichunhong/openwrt-xray-plugin.git package/xray-plugin
    # 选择要编译的包 Network -> xray-plugin
    make menuconfig
