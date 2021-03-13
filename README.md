@@ -1,4 +1,4 @@
-V2ray-plugin for OpenWrt
+xray-plugin for OpenWrt
 ===
 
 介绍
