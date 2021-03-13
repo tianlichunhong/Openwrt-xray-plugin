@@ -5,7 +5,7 @@ xray-plugin for OpenWrt
 ---
  - [xray-plugin][V]
 
-   Yet another SIP003 plugin for shadowsocks, based on xray
+   Yet another SIP003 plugin for shadowsocks, based on Xray-core
 
 
 编译
