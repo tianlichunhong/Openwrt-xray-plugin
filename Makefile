@@ -8,8 +8,8 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=xray-plugin
-PKG_VERSION:=1.3.1
-PKG_RELEASE:=20210303
+PKG_VERSION:=1.4.2
+PKG_RELEASE:=20210402
 PKG_MAINTAINER:=tianlichunhong <https://github.com/tianlichunhong>
 
 # OpenWrt ARCH: arm, i386, x86_64, mips, mipsel
